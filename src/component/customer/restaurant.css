@@ -1,0 +1,12 @@
+.cardSpace {
+  margin: 10px;
+  padding: 0 7px 0 7px;
+
+  border-radius: 20px;
+}
+.showCursor {
+  cursor: pointer;
+}
+.showCursor:hover {
+  color: gray;
+}
